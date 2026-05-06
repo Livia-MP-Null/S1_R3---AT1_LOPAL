@@ -1,10 +1,9 @@
 
-<body>
 
 <h1>Análise de Exercícios de Programação em Python</h1>
 <p>Os exercícios abordam conceitos fundamentais como estruturas de repetição (<code>for</code>, <code>while</code>), manipulação de strings, listas, dicionários e validação de dados.</p>
 
- <h3>Exercício 1: Média Bimestral</h3>
+ <h2>Exercício 1: Média Bimestral</h2>
 <img width="576" height="801" alt="Captura de tela 2026-05-06 143202" src="https://github.com/user-attachments/assets/209e7517-1103-4b7c-8cac-aaf4077ff2b6" />
 
 <p>Trabalha a captura de múltiplas entradas e a conversão de <code>string</code> para <code>float</code>. A lógica baseia-se na média aritmética simples aplicada ao contexto escolar.</p>
@@ -13,7 +12,7 @@
  
 
     
- <h3>Exercício 2: Conversor de Medidas</h3>
+ <h2>Exercício 2: Conversor de Medidas</h2>
 <img width="532" height="431" alt="Captura de tela 2026-05-06 143308" src="https://github.com/user-attachments/assets/9085fd6a-82cc-4e88-b98c-fb23f5ce6fff" />
 
    <p>Focado em cálculos de conversão. Demonstra a habilidade de transformar requisitos do mundo real (conversão métrica) em uma expressão matemática simples no código.</p>
@@ -86,4 +85,7 @@
 <img width="554" height="311" alt="Captura de tela 2026-05-06 143648" src="https://github.com/user-attachments/assets/03b872f1-c4e3-419d-8701-44775c9e2a95" />
 
 <p>Utiliza um laço <code>for</code> simples para iterar de 1 a 10, realizando cálculos aritméticos básicos e formatando a saída para o usuário.</p>
+
+<h1>ObrigadoS2 repertório feito por Livia MP</h1>
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/37f75674-c96e-46e5-bd95-7897491a1008" />
 
