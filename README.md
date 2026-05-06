@@ -86,6 +86,6 @@
 
 <p>Utiliza um laço <code>for</code> simples para iterar de 1 a 10, realizando cálculos aritméticos básicos e formatando a saída para o usuário.</p>
 
-<h1>ObrigadoS2 repertório feito por Livia MP</h1>
+<h1>Obrigado S2 repertório feito por Livia MP</h1>
 <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/37f75674-c96e-46e5-bd95-7897491a1008" />
 
